@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: eureka-server
+  cloud:
+    config:
+      uri: http://10.127.36.68:8889
+      failFast: true
